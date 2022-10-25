@@ -1,0 +1,54 @@
+.card{
+  background-color: black;
+  Border: .6em solid rgb(87, 81, 81);
+  width: 330px;
+  align-items: center;
+  justify-content: center;
+  Padding: 12px;
+  margin: 5px;
+}
+
+h3{
+    font: bold 25px 'Courgette';
+    color: white;
+    Border: .1em solid white;
+    padding: 0.1em;
+    margin: 0.2em;
+}
+.pic{
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    Border: 0.6em solid white;
+    padding: 0.2em;
+    margin: 0.2em;
+}
+.interestingfact{
+    color: white;
+    padding: 0.2em;
+    font-style: italic;
+
+}
+span{
+    color: white;
+    font-family: 'Courgette';
+    font-weight: bold;
+    font-size: medium;
+}
+
+ul{
+    color: white;
+    list-style-type: none;
+    text-align: left;
+    margin: 0; 
+    padding: 0.2em;
+}
+.content{
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  Border: .6em solid white;
+  align-items: center;
+  Padding: 0.3em;
+  margin: 0.2em;
+}
